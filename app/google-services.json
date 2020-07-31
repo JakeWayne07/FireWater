@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "608012713515",
+    "firebase_url": "https://apptest-d5f40.firebaseio.com",
+    "project_id": "apptest-d5f40",
+    "storage_bucket": "apptest-d5f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608012713515:android:238c14f1abfccb1674746e",
+        "android_client_info": {
+          "package_name": "com.waynemutai.firewater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608012713515-gcv156jtf0san29kgm0fn82arv610jap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhDC5U8V-9RBJfu6maMxKaeAT_9zs1mgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608012713515-gcv156jtf0san29kgm0fn82arv610jap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608012713515:android:1b6b1f2070fc5a1b74746e",
+        "android_client_info": {
+          "package_name": "com.waynemutai.listviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608012713515-gcv156jtf0san29kgm0fn82arv610jap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhDC5U8V-9RBJfu6maMxKaeAT_9zs1mgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608012713515-gcv156jtf0san29kgm0fn82arv610jap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
